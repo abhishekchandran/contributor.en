@@ -56,5 +56,3 @@ In the public repository, automated labels are assigned to pull requests to help
 
 >[!NOTE]
 >This is a standard NOTE block.
-
->[!VIDEO](https://www.youtube.com/watch?v=A0EcD2AxvJE)
