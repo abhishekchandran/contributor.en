@@ -55,4 +55,4 @@ In the public repository, automated labels are assigned to pull requests to help
 * **ready-to-merge**: Ready for review by our pull request review team.
 
 >[!NOTE]
->This is a standard NOTE block.
+>This is a standard NOTE block too.
