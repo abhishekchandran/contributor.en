@@ -14,4 +14,4 @@
 >[!IMPORTANT]
 >This is a IMPORTANT block.
 
-In [!DNL Adobe Target] you can create
+Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your test directly on a page.
