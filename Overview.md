@@ -13,3 +13,5 @@
 
 >[!IMPORTANT]
 >This is a IMPORTANT block.
+
+In [!DNL Adobe Target] you can create
